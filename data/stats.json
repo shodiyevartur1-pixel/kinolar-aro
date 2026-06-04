@@ -1,0 +1,30 @@
+{
+  "users": {
+    "8059999086": {
+      "id": 8059999086,
+      "username": "ar1k_bro",
+      "full_name": "ᴀʀɪᴋ",
+      "joined": "2026-05-15T18:26:03.810426"
+    },
+    "7612085208": {
+      "id": 7612085208,
+      "username": "Maxmanazarova_Jasmina",
+      "full_name": "Jasmina Soyibnazarovna",
+      "joined": "2026-05-16T12:39:47.302520"
+    },
+    "6787544849": {
+      "id": 6787544849,
+      "username": "",
+      "full_name": "👩‍⚕️💓💓",
+      "joined": "2026-05-16T13:03:00.553278"
+    },
+    "7340140710": {
+      "id": 7340140710,
+      "username": "ortada_admin",
+      "full_name": "Шдйвв",
+      "joined": "2026-05-16T13:05:16.680952"
+    }
+  },
+  "requests": 40,
+  "total_movies": 0
+}
